@@ -1,0 +1,6 @@
+{
+  "name": "Parent Control",
+  "description": "Parental control dashboard for device pairing, app blocking, and screen time schedules",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

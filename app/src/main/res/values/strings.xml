@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parent Control</string>
+    <string name="tab_connect">Connect</string>
+    <string name="tab_apps">Apps</string>
+    <string name="tab_schedules">Schedules</string>
+    <string name="shield_icon_desc">Parent Control Shield</string>
+</resources>
